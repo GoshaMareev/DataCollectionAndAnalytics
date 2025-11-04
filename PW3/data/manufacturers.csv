@@ -1,0 +1,31 @@
+brand_id,brand_name,country
+BR001,BMW,Германия
+BR002,Mercedes-Benz,Германия
+BR003,Audi,Германия
+BR004,Porsche,Германия
+BR005,Volkswagen,Германия
+BR006,Toyota,Япония
+BR007,Honda,Япония
+BR008,Nissan,Япония
+BR009,Lexus,Япония
+BR010,Mazda,Япония
+BR011,Subaru,Япония
+BR012,Ford,США
+BR013,Chevrolet,США
+BR014,Tesla,США
+BR015,Dodge,США
+BR016,Jeep,США
+BR017,Hyundai,Южная Корея
+BR018,Kia,Южная Корея
+BR019,Genesis,Южная Корея
+BR020,Renault,Франция
+BR021,Peugeot,Франция
+BR022,Citroën,Франция
+BR023,Fiat,Италия
+BR024,Alfa Romeo,Италия
+BR025,Maserati,Италия
+BR026,Volvo,Швеция
+BR027,Polestar,Швеция
+BR028,Jaguar,Великобритания
+BR029,Land Rover,Великобритания
+BR030,Mini,Великобритания

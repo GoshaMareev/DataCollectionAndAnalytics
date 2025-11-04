@@ -1,0 +1,101 @@
+model_name,brand_id,price,brand_name,country,units_sold,model_revenue
+BMW Comfort-350,BR001,4780000,BMW,Германия,2427,11601060000
+BMW Hatch-792,BR001,10080000,BMW,Германия,1411,14222880000
+Mercedes-Benz Beast-132,BR002,2800000,Mercedes-Benz,Германия,1317,3687600000
+Mercedes-Benz Saloon-338,BR002,7670000,Mercedes-Benz,Германия,2385,18292950000
+Audi Ranger-833,BR003,9150000,Audi,Германия,1732,15847800000
+Audi Beast-325,BR003,7090000,Audi,Германия,1550,10989500000
+Porsche Saloon-814,BR004,6820000,Porsche,Германия,1232,8402240000
+Porsche Trail-259,BR004,4700000,Porsche,Германия,1213,5701100000
+Porsche SUV-194,BR004,6390000,Porsche,Германия,396,2530440000
+Porsche Comfort-967,BR004,6020000,Porsche,Германия,1091,6567820000
+Volkswagen Executive-649,BR005,3770000,Volkswagen,Германия,1932,7283640000
+Volkswagen Coupe-665,BR005,5500000,Volkswagen,Германия,1644,9042000000
+Volkswagen Warrior-691,BR005,4460000,Volkswagen,Германия,1441,6426860000
+Volkswagen Sedan-777,BR005,4830000,Volkswagen,Германия,584,2820720000
+Toyota Saloon-987,BR006,1710000,Toyota,Япония,4286,7329060000
+Toyota Sport-564,BR006,4450000,Toyota,Япония,4876,21698200000
+Toyota Explorer-479,BR006,3010000,Toyota,Япония,7255,21837550000
+Toyota City-818,BR006,5990000,Toyota,Япония,6173,36976270000
+Honda Ranger-646,BR007,4930000,Honda,Япония,5274,26000820000
+Honda Urban-573,BR007,3140000,Honda,Япония,7566,23757240000
+Nissan Ranger-801,BR008,2860000,Nissan,Япония,2496,7138560000
+Nissan Saloon-941,BR008,1360000,Nissan,Япония,1656,2252160000
+Nissan Adventure-374,BR008,1530000,Nissan,Япония,413,631890000
+Nissan City-317,BR008,4550000,Nissan,Япония,772,3512600000
+Lexus Racer-246,BR009,2550000,Lexus,Япония,1369,3490950000
+Lexus Urban-862,BR009,4070000,Lexus,Япония,1031,4196170000
+Lexus Warrior-864,BR009,4190000,Lexus,Япония,1387,5811530000
+Lexus Racer-470,BR009,2320000,Lexus,Япония,456,1057920000
+Lexus Active-193,BR009,5060000,Lexus,Япония,744,3764640000
+Mazda Saloon-742,BR010,2010000,Mazda,Япония,2079,4178790000
+Mazda Coupe-494,BR010,3150000,Mazda,Япония,1715,5402250000
+Subaru Warrior-666,BR011,5600000,Subaru,Япония,1584,8870400000
+Subaru Sedan-798,BR011,5730000,Subaru,Япония,2087,11958510000
+Subaru Warrior-887,BR011,4480000,Subaru,Япония,2394,10725120000
+Subaru SUV-400,BR011,3420000,Subaru,Япония,773,2643660000
+Subaru Active-103,BR011,4890000,Subaru,Япония,1877,9178530000
+Ford Ranger-619,BR012,2580000,Ford,США,1078,2781240000
+Ford Cross-723,BR012,3530000,Ford,США,1343,4740790000
+Ford City-880,BR012,3150000,Ford,США,481,1515150000
+Ford Pickup-713,BR012,4810000,Ford,США,2086,10033660000
+Chevrolet Sedan-471,BR013,4640000,Chevrolet,США,306,1419840000
+Chevrolet Hatch-346,BR013,7300000,Chevrolet,США,2429,17731700000
+Chevrolet Sedan-849,BR013,6470000,Chevrolet,США,1107,7162290000
+Chevrolet Saloon-231,BR013,6360000,Chevrolet,США,1791,11390760000
+Chevrolet Ranger-371,BR013,6900000,Chevrolet,США,2066,14255400000
+Tesla Urban-830,BR014,4690000,Tesla,США,786,3686340000
+Tesla Sport-548,BR014,6790000,Tesla,США,1852,12575080000
+Tesla Coupe-353,BR014,3800000,Tesla,США,1785,6783000000
+Tesla Comfort-121,BR014,7520000,Tesla,США,1010,7595200000
+Tesla Ranger-702,BR014,3750000,Tesla,США,1730,6487500000
+Dodge Sedan-334,BR015,2190000,Dodge,США,2377,5205630000
+Dodge Comfort-172,BR015,6760000,Dodge,США,1566,10586160000
+Jeep Adventure-319,BR016,7020000,Jeep,США,1972,13843440000
+Jeep Active-348,BR016,6340000,Jeep,США,1636,10372240000
+Jeep GT-196,BR016,2490000,Jeep,США,1948,4850520000
+Hyundai Adventure-520,BR017,3290000,Hyundai,Южная Корея,3922,12903380000
+Hyundai Sedan-162,BR017,2960000,Hyundai,Южная Корея,2542,7524320000
+Hyundai SUV-354,BR017,1880000,Hyundai,Южная Корея,3071,5773480000
+Hyundai Active-243,BR017,3060000,Hyundai,Южная Корея,4944,15128640000
+Hyundai City-573,BR017,2170000,Hyundai,Южная Корея,4605,9992850000
+Kia Coupe-151,BR018,4230000,Kia,Южная Корея,2925,12372750000
+Kia Pickup-195,BR018,2110000,Kia,Южная Корея,3965,8366150000
+Genesis Racer-592,BR019,1990000,Genesis,Южная Корея,1963,3906370000
+Genesis Coupe-268,BR019,2840000,Genesis,Южная Корея,301,854840000
+Genesis Executive-371,BR019,3220000,Genesis,Южная Корея,1544,4971680000
+Renault Racer-258,BR020,1970000,Renault,Франция,1475,2905750000
+Renault Explorer-159,BR020,3960000,Renault,Франция,1160,4593600000
+Renault Pickup-865,BR020,2600000,Renault,Франция,2060,5356000000
+Renault Sedan-698,BR020,3440000,Renault,Франция,1619,5569360000
+Peugeot Sedan-971,BR021,1950000,Peugeot,Франция,2204,4297800000
+Peugeot Sedan-791,BR021,2200000,Peugeot,Франция,2109,4639800000
+Peugeot Coupe-683,BR021,2260000,Peugeot,Франция,2111,4770860000
+Citroën Pickup-529,BR022,4360000,Citroën,Франция,1175,5123000000
+Citroën Warrior-367,BR022,2040000,Citroën,Франция,2393,4881720000
+Fiat City-505,BR023,3340000,Fiat,Италия,2238,7474920000
+Fiat Adventure-423,BR023,9690000,Fiat,Италия,995,9641550000
+Fiat Sedan-569,BR023,8360000,Fiat,Италия,647,5408920000
+Fiat Pickup-175,BR023,7500000,Fiat,Италия,1462,10965000000
+Alfa Romeo Warrior-235,BR024,5570000,Alfa Romeo,Италия,2411,13429270000
+Alfa Romeo Saloon-478,BR024,4910000,Alfa Romeo,Италия,1672,8209520000
+Alfa Romeo Active-953,BR024,7560000,Alfa Romeo,Италия,682,5155920000
+Maserati Pickup-783,BR025,7670000,Maserati,Италия,1262,9679540000
+Maserati SUV-999,BR025,3370000,Maserati,Италия,1571,5294270000
+Maserati SUV-209,BR025,9600000,Maserati,Италия,1220,11712000000
+Maserati Ranger-378,BR025,4880000,Maserati,Италия,1115,5441200000
+Volvo Explorer-803,BR026,4500000,Volvo,Швеция,903,4063500000
+Volvo Beast-357,BR026,2320000,Volvo,Швеция,400,928000000
+Volvo Executive-949,BR026,4630000,Volvo,Швеция,489,2264070000
+Polestar Comfort-889,BR027,3130000,Polestar,Швеция,1302,4075260000
+Polestar Explorer-859,BR027,6320000,Polestar,Швеция,2246,14194720000
+Jaguar Pickup-214,BR028,2970000,Jaguar,Великобритания,598,1776060000
+Jaguar Hatch-954,BR028,5980000,Jaguar,Великобритания,2165,12946700000
+Jaguar Ranger-540,BR028,3500000,Jaguar,Великобритания,1997,6989500000
+Jaguar Comfort-473,BR028,2600000,Jaguar,Великобритания,1096,2849600000
+Jaguar Explorer-798,BR028,4750000,Jaguar,Великобритания,1872,8892000000
+Land Rover Cross-995,BR029,6360000,Land Rover,Великобритания,2324,14780640000
+Land Rover Ranger-342,BR029,3860000,Land Rover,Великобритания,1936,7472960000
+Mini Coupe-283,BR030,5600000,Mini,Великобритания,1299,7274400000
+Mini GT-373,BR030,3830000,Mini,Великобритания,904,3462320000
+Mini Executive-993,BR030,2590000,Mini,Великобритания,322,833980000
