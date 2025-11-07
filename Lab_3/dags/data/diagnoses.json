@@ -1,0 +1,22 @@
+[
+  {"patient_id": "P001", "diagnosis": "ОРВИ"},
+  {"patient_id": "P002", "diagnosis": "гипертония"},
+  {"patient_id": "P003", "diagnosis": "ишемическая болезнь сердца"},
+  {"patient_id": "P004", "diagnosis": "катаракта"},
+  {"patient_id": "P005", "diagnosis": "отит"},
+  {"patient_id": "P006", "diagnosis": "псориаз"},
+  {"patient_id": "P007", "diagnosis": "аритмия"},
+  {"patient_id": "P008", "diagnosis": "сахарный диабет 2 типа"},
+  {"patient_id": "P009", "diagnosis": "бронхит"},
+  {"patient_id": "P010", "diagnosis": "гастрит"},
+  {"patient_id": "P011", "diagnosis": "гипотиреоз"},
+  {"patient_id": "P012", "diagnosis": "стенокардия"},
+  {"patient_id": "P013", "diagnosis": "сколиоз"},
+  {"patient_id": "P014", "diagnosis": "анемия"},
+  {"patient_id": "P015", "diagnosis": "артериальная гипертензия"},
+  {"patient_id": "P016", "diagnosis": "остеохондроз"},
+  {"patient_id": "P017", "diagnosis": "вирусная инфекция"},
+  {"patient_id": "P018", "diagnosis": "ожирение"},
+  {"patient_id": "P019", "diagnosis": "рефлюкс"},
+  {"patient_id": "P020", "diagnosis": "инфаркт миокарда"}
+]

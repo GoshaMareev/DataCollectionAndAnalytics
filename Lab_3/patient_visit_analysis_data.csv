@@ -1,0 +1,5 @@
+age_group,top_doctor_specialty,visit_count,total_visits,percentage
+0-18,педиатр,4,5,80.0
+19-35,терапевт,4,5,80.0
+36-50,кардиолог,3,5,60.0
+51+,кардиолог,2,5,40.0
