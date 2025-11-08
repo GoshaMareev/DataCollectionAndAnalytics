@@ -150,6 +150,8 @@ sudo docker compose ps
 4. Создайте датасет на основе VIEW `ds_salaries_dashboard`
 5. Постройте визуализации и соберите дашборд "Зарплаты в Data Science 2025"
 
+![DAG](./img/graph.png)
+![GANTT](./img/gantt.png)
 
 
 ### 6. Сборка дашборда
