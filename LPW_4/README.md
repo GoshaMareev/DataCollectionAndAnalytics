@@ -194,6 +194,10 @@ lpw_4/
 ```
 
 ## Структура данных
+![pg1](./img/pg1.png)
+![pg2](./img/pg2.png)
+![pg_raw](./img/pg_raw.png)
+![pg_stg](./img/pg_stg.png)
 
 ### Таблица stg_ds_salaries
 Основная таблица с обогащенными данными о зарплатах в Data Science:
