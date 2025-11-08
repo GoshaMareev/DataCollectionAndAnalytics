@@ -1,0 +1,402 @@
+[
+  {
+    "model_name": "BMW Comfort-350",
+    "units_sold": 2427
+  },
+  {
+    "model_name": "BMW Hatch-792",
+    "units_sold": 1411
+  },
+  {
+    "model_name": "Mercedes-Benz Beast-132",
+    "units_sold": 1317
+  },
+  {
+    "model_name": "Mercedes-Benz Saloon-338",
+    "units_sold": 2385
+  },
+  {
+    "model_name": "Audi Ranger-833",
+    "units_sold": 1732
+  },
+  {
+    "model_name": "Audi Beast-325",
+    "units_sold": 1550
+  },
+  {
+    "model_name": "Porsche Saloon-814",
+    "units_sold": 1232
+  },
+  {
+    "model_name": "Porsche Trail-259",
+    "units_sold": 1213
+  },
+  {
+    "model_name": "Porsche SUV-194",
+    "units_sold": 396
+  },
+  {
+    "model_name": "Porsche Comfort-967",
+    "units_sold": 1091
+  },
+  {
+    "model_name": "Volkswagen Executive-649",
+    "units_sold": 1932
+  },
+  {
+    "model_name": "Volkswagen Coupe-665",
+    "units_sold": 1644
+  },
+  {
+    "model_name": "Volkswagen Warrior-691",
+    "units_sold": 1441
+  },
+  {
+    "model_name": "Volkswagen Sedan-777",
+    "units_sold": 584
+  },
+  {
+    "model_name": "Toyota Saloon-987",
+    "units_sold": 4286
+  },
+  {
+    "model_name": "Toyota Sport-564",
+    "units_sold": 4876
+  },
+  {
+    "model_name": "Toyota Explorer-479",
+    "units_sold": 7255
+  },
+  {
+    "model_name": "Toyota City-818",
+    "units_sold": 6173
+  },
+  {
+    "model_name": "Honda Ranger-646",
+    "units_sold": 5274
+  },
+  {
+    "model_name": "Honda Urban-573",
+    "units_sold": 7566
+  },
+  {
+    "model_name": "Nissan Ranger-801",
+    "units_sold": 2496
+  },
+  {
+    "model_name": "Nissan Saloon-941",
+    "units_sold": 1656
+  },
+  {
+    "model_name": "Nissan Adventure-374",
+    "units_sold": 413
+  },
+  {
+    "model_name": "Nissan City-317",
+    "units_sold": 772
+  },
+  {
+    "model_name": "Lexus Racer-246",
+    "units_sold": 1369
+  },
+  {
+    "model_name": "Lexus Urban-862",
+    "units_sold": 1031
+  },
+  {
+    "model_name": "Lexus Warrior-864",
+    "units_sold": 1387
+  },
+  {
+    "model_name": "Lexus Racer-470",
+    "units_sold": 456
+  },
+  {
+    "model_name": "Lexus Active-193",
+    "units_sold": 744
+  },
+  {
+    "model_name": "Mazda Saloon-742",
+    "units_sold": 2079
+  },
+  {
+    "model_name": "Mazda Coupe-494",
+    "units_sold": 1715
+  },
+  {
+    "model_name": "Subaru Warrior-666",
+    "units_sold": 1584
+  },
+  {
+    "model_name": "Subaru Sedan-798",
+    "units_sold": 2087
+  },
+  {
+    "model_name": "Subaru Warrior-887",
+    "units_sold": 2394
+  },
+  {
+    "model_name": "Subaru SUV-400",
+    "units_sold": 773
+  },
+  {
+    "model_name": "Subaru Active-103",
+    "units_sold": 1877
+  },
+  {
+    "model_name": "Ford Ranger-619",
+    "units_sold": 1078
+  },
+  {
+    "model_name": "Ford Cross-723",
+    "units_sold": 1343
+  },
+  {
+    "model_name": "Ford City-880",
+    "units_sold": 481
+  },
+  {
+    "model_name": "Ford Pickup-713",
+    "units_sold": 2086
+  },
+  {
+    "model_name": "Chevrolet Sedan-471",
+    "units_sold": 306
+  },
+  {
+    "model_name": "Chevrolet Hatch-346",
+    "units_sold": 2429
+  },
+  {
+    "model_name": "Chevrolet Sedan-849",
+    "units_sold": 1107
+  },
+  {
+    "model_name": "Chevrolet Saloon-231",
+    "units_sold": 1791
+  },
+  {
+    "model_name": "Chevrolet Ranger-371",
+    "units_sold": 2066
+  },
+  {
+    "model_name": "Tesla Urban-830",
+    "units_sold": 786
+  },
+  {
+    "model_name": "Tesla Sport-548",
+    "units_sold": 1852
+  },
+  {
+    "model_name": "Tesla Coupe-353",
+    "units_sold": 1785
+  },
+  {
+    "model_name": "Tesla Comfort-121",
+    "units_sold": 1010
+  },
+  {
+    "model_name": "Tesla Ranger-702",
+    "units_sold": 1730
+  },
+  {
+    "model_name": "Dodge Sedan-334",
+    "units_sold": 2377
+  },
+  {
+    "model_name": "Dodge Comfort-172",
+    "units_sold": 1566
+  },
+  {
+    "model_name": "Jeep Adventure-319",
+    "units_sold": 1972
+  },
+  {
+    "model_name": "Jeep Active-348",
+    "units_sold": 1636
+  },
+  {
+    "model_name": "Jeep GT-196",
+    "units_sold": 1948
+  },
+  {
+    "model_name": "Hyundai Adventure-520",
+    "units_sold": 3922
+  },
+  {
+    "model_name": "Hyundai Sedan-162",
+    "units_sold": 2542
+  },
+  {
+    "model_name": "Hyundai SUV-354",
+    "units_sold": 3071
+  },
+  {
+    "model_name": "Hyundai Active-243",
+    "units_sold": 4944
+  },
+  {
+    "model_name": "Hyundai City-573",
+    "units_sold": 4605
+  },
+  {
+    "model_name": "Kia Coupe-151",
+    "units_sold": 2925
+  },
+  {
+    "model_name": "Kia Pickup-195",
+    "units_sold": 3965
+  },
+  {
+    "model_name": "Genesis Racer-592",
+    "units_sold": 1963
+  },
+  {
+    "model_name": "Genesis Coupe-268",
+    "units_sold": 301
+  },
+  {
+    "model_name": "Genesis Executive-371",
+    "units_sold": 1544
+  },
+  {
+    "model_name": "Renault Racer-258",
+    "units_sold": 1475
+  },
+  {
+    "model_name": "Renault Explorer-159",
+    "units_sold": 1160
+  },
+  {
+    "model_name": "Renault Pickup-865",
+    "units_sold": 2060
+  },
+  {
+    "model_name": "Renault Sedan-698",
+    "units_sold": 1619
+  },
+  {
+    "model_name": "Peugeot Sedan-971",
+    "units_sold": 2204
+  },
+  {
+    "model_name": "Peugeot Sedan-791",
+    "units_sold": 2109
+  },
+  {
+    "model_name": "Peugeot Coupe-683",
+    "units_sold": 2111
+  },
+  {
+    "model_name": "Citroën Pickup-529",
+    "units_sold": 1175
+  },
+  {
+    "model_name": "Citroën Warrior-367",
+    "units_sold": 2393
+  },
+  {
+    "model_name": "Fiat City-505",
+    "units_sold": 2238
+  },
+  {
+    "model_name": "Fiat Adventure-423",
+    "units_sold": 995
+  },
+  {
+    "model_name": "Fiat Sedan-569",
+    "units_sold": 647
+  },
+  {
+    "model_name": "Fiat Pickup-175",
+    "units_sold": 1462
+  },
+  {
+    "model_name": "Alfa Romeo Warrior-235",
+    "units_sold": 2411
+  },
+  {
+    "model_name": "Alfa Romeo Saloon-478",
+    "units_sold": 1672
+  },
+  {
+    "model_name": "Alfa Romeo Active-953",
+    "units_sold": 682
+  },
+  {
+    "model_name": "Maserati Pickup-783",
+    "units_sold": 1262
+  },
+  {
+    "model_name": "Maserati SUV-999",
+    "units_sold": 1571
+  },
+  {
+    "model_name": "Maserati SUV-209",
+    "units_sold": 1220
+  },
+  {
+    "model_name": "Maserati Ranger-378",
+    "units_sold": 1115
+  },
+  {
+    "model_name": "Volvo Explorer-803",
+    "units_sold": 903
+  },
+  {
+    "model_name": "Volvo Beast-357",
+    "units_sold": 400
+  },
+  {
+    "model_name": "Volvo Executive-949",
+    "units_sold": 489
+  },
+  {
+    "model_name": "Polestar Comfort-889",
+    "units_sold": 1302
+  },
+  {
+    "model_name": "Polestar Explorer-859",
+    "units_sold": 2246
+  },
+  {
+    "model_name": "Jaguar Pickup-214",
+    "units_sold": 598
+  },
+  {
+    "model_name": "Jaguar Hatch-954",
+    "units_sold": 2165
+  },
+  {
+    "model_name": "Jaguar Ranger-540",
+    "units_sold": 1997
+  },
+  {
+    "model_name": "Jaguar Comfort-473",
+    "units_sold": 1096
+  },
+  {
+    "model_name": "Jaguar Explorer-798",
+    "units_sold": 1872
+  },
+  {
+    "model_name": "Land Rover Cross-995",
+    "units_sold": 2324
+  },
+  {
+    "model_name": "Land Rover Ranger-342",
+    "units_sold": 1936
+  },
+  {
+    "model_name": "Mini Coupe-283",
+    "units_sold": 1299
+  },
+  {
+    "model_name": "Mini GT-373",
+    "units_sold": 904
+  },
+  {
+    "model_name": "Mini Executive-993",
+    "units_sold": 322
+  }
+]
